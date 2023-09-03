@@ -1,6 +1,8 @@
-public class Op {
+public class Op 
+{
 
-    public static void main(String[] args) {
+    public static void main(String[] args) 
+    {
         
     }
     
